@@ -5,3 +5,5 @@
 #### Endpoint #####
 - http://localhost:porta/pedidos/Id
 - http://localhost:porta/categorias/Id
+
+![UML](./projeto-crud/img/uml.png)
